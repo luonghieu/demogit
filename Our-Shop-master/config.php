@@ -2,6 +2,8 @@
 	return [
 		'database'=>[
 			'name' =>'mytodo',
+			'name' =>'mytodo',
+			'name' =>'mytodo',
 			'username'=>'root',
 			'password'=>'123456',
 			'connection'=>'mysql:host=127.0.0.1',
