@@ -1,7 +1,7 @@
 <?php
 	return [
 		'database'=>[
-			'age' =>'mytodo',
+			'sua day nha' =>'mytodo',
 			'abc'=>'root',
 			'bcd'=>'123456',
 			'connection'=>'mysql:host=127.0.0.1',
