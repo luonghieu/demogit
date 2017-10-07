@@ -3,9 +3,9 @@
 		'database'=>[
 			'sua day nha' =>'mytodo',
 			'abc'=>'root',
-			'bcd'=>'123456',
-			'connection'=>'mysql:host=127.0.0.1',
-			'options'=>[
+			'ADSFRDTRYTUYIU'=>'123456',
+			'	QỬETRYTUYU'=>'mysql:host=127.0.0.1',
+			'	QRWETRYTUYIU8'=>[
 				PDO::ATTR_ERRMODE =>PDO::ERRMODE_EXCEPTION
 			]
 		]
